@@ -1,0 +1,22 @@
+{
+  "name": "ms-jubeliapp-core",
+  "version": "1.0.0",
+  "description": "Jubelio Test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm test"
+  },
+  "keywords": [
+    "hapijs",
+    "nodejs"
+  ],
+  "author": "kiki.kiswanto",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^19.1.1",
+    "axios": "^0.19.2",
+    "xml-js": "^1.6.11",
+    "xml2js": "^0.4.23"
+  }
+}
